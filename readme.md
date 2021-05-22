@@ -27,5 +27,6 @@ class - 3
     2. css
     3. website layout (Responsive)
     4. javaScript (Most important)
-    5. Bootstrap (Styling , css)
-    6. Jquery (Logic , javascript)
+    5. [Bootstrap] (https://getbootstrap.com/) (Styling , css)
+    6. [Jquery] (https://jquery.com/) (Logic , javascript)
+2. Table , thead, tbody, tfoot, th, td, colspan,rowspan,cellspacing,cellpadding, border, bgcolo
