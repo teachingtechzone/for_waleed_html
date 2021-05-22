@@ -19,5 +19,13 @@ class - 2
         1. Save images in the right format
         2. Save images at the right size
         3. Use the correct resolution
-    5. book name html css by jon duckett 
+    5. book name html css by jon duckett
 
+class - 3
+1. roadmap
+    1. html
+    2. css
+    3. website layout (Responsive)
+    4. javaScript (Most important)
+    5. Bootstrap (Styling , css)
+    6. Jquery (Logic , javascript)
