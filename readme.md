@@ -7,6 +7,8 @@ class - 1
     2. text
     3. list
     4. links
+4. https://code.visualstudio.com/
+5. shift + !
 class - 2
 1. free website for image
     1. https://unsplash.com/
