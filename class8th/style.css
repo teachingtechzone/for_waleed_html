@@ -1,0 +1,42 @@
+#myid{
+    color: dodgerblue;
+}
+
+div p{
+    color: firebrick;
+}
+
+div+p{
+    color: fuchsia;
+}
+div~p{
+    color: fuchsia;
+}
+div~p{
+    color: rgb(0, 225, 255);
+}
+/* 
+*{
+    color: green;
+} */
+
+/* *{
+    color: green !important;
+} */
+
+
+/* span{
+    color: green;
+}
+
+p{
+    color: hotpink;
+}
+p{
+    color: inherit;
+} */
+
+
+div.bg{
+    background-color: rgba(147, 163, 172, 0.856);
+}
